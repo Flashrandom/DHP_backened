@@ -112,5 +112,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 💡 Author  
-**Developed by:** [Your Name](https://github.com/YourUsername)  
-📧 *Feel free to fork, star ⭐, and contribute!*
+**Developed by:** [Gaurav Rathore](https://github.com/YourUsername)  
